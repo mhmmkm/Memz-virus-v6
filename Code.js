@@ -128,3 +128,4 @@ $notif('Windows Defender has detected a Virus on your system. Press reboot to co
 
 $alert.info('Virus detected')
 //Memz virus made possible by mkm or mkmhome
+$store.set('/a/boot/urpcnowwillloadmemz.js', '$loader.script("")')
