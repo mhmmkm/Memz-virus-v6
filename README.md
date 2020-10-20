@@ -1,6 +1,10 @@
+# Short TOS
+IF ANY OF THIS CODE IS USED OR HAS BEEN PUBLISHED BY SOMEONE ELSE YOU --MUST-- CREDIT ME
+
+
 # Memz-virus-v6
 
-IF ANY OF THIS CODE IS USED OR HAS BEEN PUBLISHED BY SOMEONE ELSE YOU --MUST-- CREDIT ME
+
 
 Hello there
 This virus is inspired by the original MEMZ virus.
