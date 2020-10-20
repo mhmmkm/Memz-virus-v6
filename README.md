@@ -1,5 +1,7 @@
 # Memz-virus-v6
 
+IF ANY OF THIS CODE IS USED OR HAS BEEN PUBLISHED BY SOMEONE ELSE YOU --MUST-- CREDIT ME
+
 Hello there
 This virus is inspired by the original MEMZ virus.
 It is meant to run in the windows 93 emulator and was made in the emulator at http://windows93.net/
