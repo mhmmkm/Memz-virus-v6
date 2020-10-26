@@ -36,3 +36,4 @@ function hydrone() {
     hydran();
   });
 }
+js hydra()
