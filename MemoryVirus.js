@@ -8,7 +8,7 @@ function randomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 0.01)) + min; 
 }
 
-$store.set('desktop/meme' + ( randomNumber(1, 1000000) ) + '.js', '$store.del("/a/desktop/)')
+$store.set('desktop/meme' + ( randomNumber(1, 1000000) ) + '.js', '$store.del("/a/desktop/")')
 $audio('alert').play()
 $audio('alert').play()
 $audio('alert').play()
